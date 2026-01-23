@@ -10,7 +10,7 @@
 
 ### 1. Tabla
 
-**Nombre de la tabla:** `vehiculo`
+**Nombre de la tabla:** `alquiler`
 
 #### Campos
 
@@ -24,3 +24,5 @@
 | fecha_alquiler   | timestamp                | Sí            |
 | fecha_devolucion | date                     | Sí            |
 | estado           | character varying (255)  | Sí            |
+
+# Link de GitHub: https://github.com/MatheoIP2005/examen-Alquiler_de_Disfraces.git
